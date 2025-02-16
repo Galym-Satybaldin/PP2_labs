@@ -3,7 +3,7 @@ sports_games.remove ("baseball") #only removes first occurence of baseball word
 print (sports_games)
 
 
-sports_games.pop(2) #removes element with index of 3
+sports_games.pop(2) #removes element with index of 2
 print (sports_games)
 
 sports_games.pop() #removes last element
